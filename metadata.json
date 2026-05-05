@@ -1,0 +1,5 @@
+{
+  "name": "Buildora Mobile IDE",
+  "description": "A powerful production-grade mobile-first web development IDE with local server simulation, AI assistance, and project export workflow.",
+  "requestFramePermissions": []
+}
